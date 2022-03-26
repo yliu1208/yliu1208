@@ -1,4 +1,9 @@
-### Hi there 👋
+:coffee: :beer: :mate:
+### About Me
+:technologist: A software developer in Montreal, :canada:  
+
+
+
 
 <!--
 **yliu1208/yliu1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
